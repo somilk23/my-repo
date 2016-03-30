@@ -6,3 +6,4 @@ Hello GIT6
 =======
 Hello GIT5
 >>>>>>> 8b7a1f9950b3c02007c72d824e4a2a9a09675442
+Hello7
