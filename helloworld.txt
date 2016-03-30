@@ -8,4 +8,8 @@ Hello GIT5
 Hello8
 Hello9
 Hello 10
+<<<<<<< HEAD
 Hello 11
+=======
+Hello12
+>>>>>>> 80a414bb7af9083f974d1ddc254b33dd2b07ff51
