@@ -1,11 +1,4 @@
 Hello GIT
 Hello GIT1
 Hello GIT2
-<<<<<<< HEAD
-Hello GIT4
-=======
-Hello GIT3
-
->>>>>>> abb42f744c68391cd730290f1bf413ef9858adca
-
-Hello My world
+Hello GIT5
