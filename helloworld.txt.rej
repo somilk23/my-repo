@@ -1,0 +1,10 @@
+diff a/helloworld.txt b/helloworld.txt	(rejected hunks)
+@@ -1,2 +1,5 @@
+ Hello GIT
+-Hello GIT1
+\ No newline at end of file
++Hello GIT1
++
++
++Hello My world
+\ No newline at end of file
